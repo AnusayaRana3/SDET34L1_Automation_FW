@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-24T16:57:03 IST" name="Suite" finished-at="2022-05-24T16:57:51 IST" duration-ms="47721">
+    <groups>
+      <group name="sanity">
+        <method signature="CreateContactsTest.createContactWithExternalExcelByTestNgTest()[pri:0, instance:com.vtiger.contactsTest.CreateContactsTest@6f0cb5a1]" name="createContactWithExternalExcelByTestNgTest" class="com.vtiger.contactsTest.CreateContactsTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2022-05-24T16:57:03 IST" name="Test" finished-at="2022-05-24T16:57:51 IST" duration-ms="47721">
+      <class name="com.vtiger.contactsTest.CreateContactsTest">
+        <test-method is-config="true" signature="beforeSuite1Test()[pri:0, instance:com.vtiger.contactsTest.CreateContactsTest@6f0cb5a1]" started-at="2022-05-24T16:57:01 IST" name="beforeSuite1Test" finished-at="2022-05-24T16:57:03 IST" duration-ms="2735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite1Test -->
+        <test-method is-config="true" signature="beforeclass1Test(java.lang.String)[pri:0, instance:com.vtiger.contactsTest.CreateContactsTest@6f0cb5a1]" started-at="2022-05-24T16:57:05 IST" name="beforeclass1Test" finished-at="2022-05-24T16:57:14 IST" duration-ms="9180" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass1Test -->
+        <test-method is-config="true" signature="beforeMethod1Test()[pri:0, instance:com.vtiger.contactsTest.CreateContactsTest@6f0cb5a1]" started-at="2022-05-24T16:57:14 IST" name="beforeMethod1Test" finished-at="2022-05-24T16:57:20 IST" duration-ms="5752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1Test -->
+        <test-method signature="createContactWithExternalExcelByTestNgTest()[pri:0, instance:com.vtiger.contactsTest.CreateContactsTest@6f0cb5a1]" started-at="2022-05-24T16:57:20 IST" name="createContactWithExternalExcelByTestNgTest" finished-at="2022-05-24T16:57:47 IST" duration-ms="27201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactWithExternalExcelByTestNgTest -->
+        <test-method is-config="true" signature="afterMethod1Test()[pri:0, instance:com.vtiger.contactsTest.CreateContactsTest@6f0cb5a1]" started-at="2022-05-24T16:57:47 IST" name="afterMethod1Test" finished-at="2022-05-24T16:57:50 IST" duration-ms="2937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod1Test -->
+        <test-method is-config="true" signature="afterClass1Test()[pri:0, instance:com.vtiger.contactsTest.CreateContactsTest@6f0cb5a1]" started-at="2022-05-24T16:57:50 IST" name="afterClass1Test" finished-at="2022-05-24T16:57:51 IST" duration-ms="875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass1Test -->
+        <test-method is-config="true" signature="afterSuite1Test()[pri:0, instance:com.vtiger.contactsTest.CreateContactsTest@6f0cb5a1]" started-at="2022-05-24T16:57:52 IST" name="afterSuite1Test" finished-at="2022-05-24T16:57:53 IST" duration-ms="364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite1Test -->
+      </class> <!-- com.vtiger.contactsTest.CreateContactsTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
